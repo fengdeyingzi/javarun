@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="state_item_pressed">#AAff0000</color>
+    <color name="state_item_normal">#44ff0000</color>
+		<color name="colorPrimary">#ff65aef0</color>
+	<color name="window_background">#f0f0f0</color>
+		<color name="colorAccent">#ff75c0f0</color>
+	<color name="textColorHighLight">#a0daf0</color>
+		<color name="colorControlNormal">#ff808080</color>
+		<color name="statusBarColor">#ff65aef0</color>
+	<color name="navigationBarColor">#505050</color>
+	<color name="colorControlHighlight">#2e6090</color>
+	<color name="colorButtonNormal">#d0d0d0</color>
+	
+</resources>

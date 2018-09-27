@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">C语言运行器</string>
+		
+		<string name="selected_and_copy">选择复制</string>
+
+		<string name="pause">粘贴</string>
+		<string name="into_copy_mode">已进入复制模式</string>
+		
+		
+</resources>
